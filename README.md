@@ -40,6 +40,8 @@ Cards :
 All requests are based on users dashboard access
 
 # Next to come :
+General :
+Real-time updates
 
 Cards :
 - Checklists
