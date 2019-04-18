@@ -3,6 +3,7 @@ Trello like kanban built with laravel and vue
 
 # Installation
 - First install npm and composer packages
+- Import default sql file to MySQL
 - Configure passport laravel API
 
 # Configuration
